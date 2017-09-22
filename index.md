@@ -37,7 +37,7 @@ In addition the following traps are supported:
  
  Currently there are two implementations: 
  
- #### Bonfire @ Papilio Pro 
+#### Bonfire @ Papilio Pro 
  * 96Mhz Clock
  * 8KB Instruction Cache
  * Support for 8MB SDRAM on the Papilio Pro
@@ -48,7 +48,7 @@ In addition the following traps are supported:
  with subprojects you get all the source code for the Processor, the SoC and the Boot Monitor.
  
  
- #### Bonfire @ Digilent Arty
+#### Bonfire @ Digilent Arty
  * 83Mhz Clock
  * 32KB Instruction Cache 
  * 32KB Data Cache 
