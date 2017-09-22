@@ -1,6 +1,0 @@
-{
-  "name": "The Bonfire Processor",
-  "tagline": "",
-  "body": "###Welcome to the Bonfire Processor Project\r\n\r\nBonfire is a FPGA Implementation of the RISC-V ISA. Currently it supports RV32I, and part of the M extensions.  \r\n\r\nPlease stay tuned...\r\n\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
