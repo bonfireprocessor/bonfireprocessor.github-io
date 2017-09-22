@@ -32,8 +32,11 @@ In addition the following traps are supported:
  * ebreak
  * ecall 
  
- ## Bonfire SoCs / Implementation
+
+## Bonfire SoCs / Implementation
+ 
  Currently there are two implementations: 
+ 
  ### Bonfire @ Papilio Pro 
  * 96Mhz Clock
  * 8KB Instruction Cache
