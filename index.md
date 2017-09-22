@@ -1,4 +1,4 @@
-#Welcome to the Bonfire Processor Project
+## Welcome to the Bonfire Processor Project
 
  
 Bonfire is a implementation of RISC-V (RV32IM subset) optimized for FPGAs.
@@ -33,11 +33,11 @@ In addition the following traps are supported:
  * ecall 
  
 
-## Bonfire SoCs / Implementation
+### Bonfire SoCs / Implementation
  
  Currently there are two implementations: 
  
- ### Bonfire @ Papilio Pro 
+ #### Bonfire @ Papilio Pro 
  * 96Mhz Clock
  * 8KB Instruction Cache
  * Support for 8MB SDRAM on the Papilio Pro
@@ -48,7 +48,7 @@ In addition the following traps are supported:
  with subprojects you get all the source code for the Processor, the SoC and the Boot Monitor.
  
  
- ### Bonfire @ Digilent Arty
+ #### Bonfire @ Digilent Arty
  * 83Mhz Clock
  * 32KB Instruction Cache 
  * 32KB Data Cache 
