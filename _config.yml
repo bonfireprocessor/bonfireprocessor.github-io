@@ -1,7 +1,7 @@
 title: The Bonfire Processor
-description: 
-google_analytics: 
-show_downloads: true
+description:
+google_analytics:
+show_downloads: false
 theme: jekyll-theme-slate
 
 gems:
