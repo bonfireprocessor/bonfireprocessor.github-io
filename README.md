@@ -1,7 +1,3 @@
----
-
----
-
 
 ## Welcome to the Bonfire Processor Project
 
