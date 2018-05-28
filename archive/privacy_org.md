@@ -5,13 +5,13 @@ title: Bonfire Project Privacy Policy
 
 ## Privay Policy
 
-We are very delighted that you have shown interest in {{ site.title }}. Data protection is of a particularly high priority for us. The use of the Internet pages of {{ site.title }} is possible without any indication of personal data; however, if a visitor wants to use special services via our website, processing of personal data could become necessary. If the processing of personal data is necessary and there is no statutory basis for such processing, we generally obtain consent from the visitor.
-The processing of personal data, such as the name, address, e-mail address, or telephone number of a visitor shall always be in line with the General Data Protection Regulation (GDPR), and in accordance with the country-specific data protection regulations applicable to {{ site.title }}. By means of this data protection declaration, we would like to inform the general public of the nature, scope, and purpose of the personal data we collect, use and process. Furthermore, visitors  are informed, by means of this data protection declaration, of the rights to which they are entitled.
-As the controller, {{ site.title }} has implemented numerous technical and organizational measures to ensure the most complete protection of personal data processed through this website. However, Internet-based data transmissions may in principle have security gaps, so absolute protection may not be guaranteed. For this reason, every visitor is free to transfer personal data to us via alternative means, e.g. by telephone.
+We are very delighted that you have shown interest in The Bonfire processor project. Data protection is of a particularly high priority for us. The use of the Internet pages of the Bonfire processor project is possible without any indication of personal data; however, if a visitor wants to use special enterprise services via our website, processing of personal data could become necessary. If the processing of personal data is necessary and there is no statutory basis for such processing, we generally obtain consent from the visitor.
+The processing of personal data, such as the name, address, e-mail address, or telephone number of a visitor shall always be in line with the General Data Protection Regulation (GDPR), and in accordance with the country-specific data protection regulations applicable to the Bonfire processor project. By means of this data protection declaration, our enterprise would like to inform the general public of the nature, scope, and purpose of the personal data we collect, use and process. Furthermore, visitors  are informed, by means of this data protection declaration, of the rights to which they are entitled.
+As the controller, the Bonfire processor project has implemented numerous technical and organizational measures to ensure the most complete protection of personal data processed through this website. However, Internet-based data transmissions may in principle have security gaps, so absolute protection may not be guaranteed. For this reason, every visitor is free to transfer personal data to us via alternative means, e.g. by telephone.
 
 
 ### 1. Definitions
-The data protection declaration of {{ site.title }} is based on the terms used by the European legislator for the adoption of the General Data Protection Regulation (GDPR). Our data protection declaration should be legible and understandable for the general public, as well as our customers and business partners. To ensure this, we would like to first explain the terminology used.
+The data protection declaration of the Bonfire processor project is based on the terms used by the European legislator for the adoption of the General Data Protection Regulation (GDPR). Our data protection declaration should be legible and understandable for the general public, as well as our customers and business partners. To ensure this, we would like to first explain the terminology used.
 In this data protection declaration, we use,  the following terms:
 
 #### Personal data
@@ -58,7 +58,7 @@ Germany
 
 Phone: +49-6222-950314
 Email: info@bonfirecpu.eu
-Website: bonfireprocessor.gitub.io
+Website: bonfireprocessor.gitub.eu
 
 
 
@@ -78,7 +78,7 @@ The visitor may, at any time, prevent the setting of cookies through our website
 
 ### 4. Collection of general data and information
 
-The website of {{ site.title }} collects a series of general data and information when a visitor or automated system calls up the website. This general data and information are stored in the server log files. Collected may be
+The website of the Bonfire processor project collects a series of general data and information when a visitor or automated system calls up the website. This general data and information are stored in the server log files. Collected may be
 * the browser types and versions used,
 * the operating system used by the accessing system,
 * the website from which an accessing system reaches our website (so-called referrers),
@@ -88,11 +88,11 @@ The website of {{ site.title }} collects a series of general data and informatio
 * the Internet service provider of the accessing system, and any other similar data and information that may be used in the event of attacks on our information technology systems.
 
 When using these general data and information, Bonfire processor project does not draw any conclusions about the visitor. Rather, this information is needed to
-deliver the content of our website correctly, optimize the content of our website as well as its advertisement, ensure the long-term viability of our information technology systems and website technology provide law enforcement authorities with the information necessary for criminal prosecution in case of a cyber-attack. Therefore, {{ site.title }} analyzes anonymously collected data and information statistically, with the aim of increasing the data protection and data security of our enterprise, and to ensure an optimal level of protection for the personal data we process. The anonymous data of the server log files are stored separately from all personal data provided by a visitor.
+deliver the content of our website correctly, optimize the content of our website as well as its advertisement, ensure the long-term viability of our information technology systems and website technology provide law enforcement authorities with the information necessary for criminal prosecution in case of a cyber-attack. Therefore, the Bonfire processor project analyzes anonymously collected data and information statistically, with the aim of increasing the data protection and data security of our enterprise, and to ensure an optimal level of protection for the personal data we process. The anonymous data of the server log files are stored separately from all personal data provided by a visitor.
 
-### 6. Transfer of data
-The website of {{ site.title }} is hosted and powered by [GitHub pages](https://pages.github.com/).
-GitHub Pages is a service offered by [GitHub Inc, San Francisco, USA](https://github.com/about). So the above amentioned data are transfered to the US. GitHub complies with the [Privacy Shield Framework](https://www.privacyshield.gov/participant?id=a2zt000000001K2AAI) and is compliant with the EU General Data Protection Regulation.
+### 6. Data Processor
+The website of the Bonfire processor project is hosted and powered by [GitHub pages](https://pages.github.com/).
+GitHub Pages is a service offered by GitHub Inc. Github. GitHub complies with the [Privacy Shield Framework](https://www.privacyshield.gov/participant?id=a2zt000000001K2AAI) and is compliant with the EU General Data Protection Regulation.
 You can view the Privacy Statement of GitHub at [https://help.github.com/articles/github-privacy-statement/](https://help.github.com/articles/github-privacy-statement/).
 
 
@@ -127,8 +127,8 @@ Each visitor shall have the right granted by the European legislator to obtain f
 * The personal data must be erased for compliance with a legal obligation in Union or Member State law to which the controller is subject.
 * The personal data have been collected in relation to the offer of information society services referred to in Article 8(1) of the GDPR.
 
-If one of the aforementioned reasons applies, and a visitor wishes to request the erasure of personal data stored by {{ site.title }}, he or she may, at any time, contact any employee of the controller. An employee of Bonfire processor project shall promptly ensure that the erasure request is complied with immediately.
-Where the controller has made personal data public and is obliged pursuant to Article 17(1) to erase the personal data, the controller, taking account of available technology and the cost of implementation, shall take reasonable steps, including technical measures, to inform other controllers processing the personal data that the visitor has requested erasure by such controllers of any links to, or copy or replication of, those personal data, as far as processing is not required. An employees of {{ site.title }} will arrange the necessary measures in individual cases.
+If one of the aforementioned reasons applies, and a visitor wishes to request the erasure of personal data stored by the Bonfire processor project, he or she may, at any time, contact any employee of the controller. An employee of Bonfire processor project shall promptly ensure that the erasure request is complied with immediately.
+Where the controller has made personal data public and is obliged pursuant to Article 17(1) to erase the personal data, the controller, taking account of available technology and the cost of implementation, shall take reasonable steps, including technical measures, to inform other controllers processing the personal data that the visitor has requested erasure by such controllers of any links to, or copy or replication of, those personal data, as far as processing is not required. An employees of the Bonfire processor project will arrange the necessary measures in individual cases.
 
 #### e) Right of restriction of processing
 Each visitor shall have the right granted by the European legislator to obtain from the controller restriction of processing where one of the following applies:
@@ -136,32 +136,49 @@ The accuracy of the personal data is contested by the visitor, for a period enab
 The processing is unlawful and the visitor opposes the erasure of the personal data and requests instead the restriction of their use instead.
 The controller no longer needs the personal data for the purposes of the processing, but they are required by the visitor for the establishment, exercise or defence of legal claims.
 The visitor has objected to processing pursuant to Article 21(1) of the GDPR pending the verification whether the legitimate grounds of the controller override those of the visitor.
-If one of the aforementioned conditions is met, and a visitor wishes to request the restriction of the processing of personal data stored by {{ site.title }}, he or she may at any time contact any employee of the controller. The employee of {{ site.title }} will arrange the restriction of the processing.
+If one of the aforementioned conditions is met, and a visitor wishes to request the restriction of the processing of personal data stored by the Bonfire processor project, he or she may at any time contact any employee of the controller. The employee of the Bonfire processor project will arrange the restriction of the processing.
 
 #### f) Right to data portability
 Each visitor shall have the right granted by the European legislator, to receive the personal data concerning him or her, which was provided to a controller, in a structured, commonly used and machine-readable format. He or she shall have the right to transmit those data to another controller without hindrance from the controller to which the personal data have been provided, as long as the processing is based on consent pursuant to point (a) of Article 6(1) of the GDPR or point (a) of Article 9(2) of the GDPR, or on a contract pursuant to point (b) of Article 6(1) of the GDPR, and the processing is carried out by automated means, as long as the processing is not necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller.
 Furthermore, in exercising his or her right to data portability pursuant to Article 20(1) of the GDPR, the visitor shall have the right to have personal data transmitted directly from one controller to another, where technically feasible and when doing so does not adversely affect the rights and freedoms of others.
-In order to assert the right to data portability, the visitor may at any time contact any employee of {{ site.title }}.
+In order to assert the right to data portability, the visitor may at any time contact any employee of the Bonfire processor project.
 
 #### g) Right to object
 Each visitor shall have the right granted by the European legislator to object, on grounds relating to his or her particular situation, at any time, to processing of personal data concerning him or her, which is based on point (e) or (f) of Article 6(1) of the GDPR. This also applies to profiling based on these provisions.
-{{ site.title }} shall no longer process the personal data in the event of the objection, unless we can demonstrate compelling legitimate grounds for the processing which override the interests, rights and freedoms of the visitor, or for the establishment, exercise or defence of legal claims.
-If {{ site.title }} processes personal data for direct marketing purposes, the visitor shall have the right to object at any time to processing of personal data concerning him or her for such marketing. This applies to profiling to the extent that it is related to such direct marketing. If the visitor objects to {{ site.title }} to the processing for direct marketing purposes, {{ site.title }} will no longer process the personal data for these purposes.
-In addition, the visitor has the right, on grounds relating to his or her particular situation, to object to processing of personal data concerning him or her by {{ site.title }} for scientific or historical research purposes, or for statistical purposes pursuant to Article 89(1) of the GDPR, unless the processing is necessary for the performance of a task carried out for reasons of public interest.
-In order to exercise the right to object, the visitor may contact any employee of {{ site.title }}. In addition, the visitor is free in the context of the use of information society services, and notwithstanding Directive 2002/58/EC, to use his or her right to object by automated means using technical specifications.
+The Bonfire processor project shall no longer process the personal data in the event of the objection, unless we can demonstrate compelling legitimate grounds for the processing which override the interests, rights and freedoms of the visitor, or for the establishment, exercise or defence of legal claims.
+If the Bonfire processor project processes personal data for direct marketing purposes, the visitor shall have the right to object at any time to processing of personal data concerning him or her for such marketing. This applies to profiling to the extent that it is related to such direct marketing. If the visitor objects to the Bonfire processor project to the processing for direct marketing purposes, the Bonfire processor project will no longer process the personal data for these purposes.
+In addition, the visitor has the right, on grounds relating to his or her particular situation, to object to processing of personal data concerning him or her by the Bonfire processor project for scientific or historical research purposes, or for statistical purposes pursuant to Article 89(1) of the GDPR, unless the processing is necessary for the performance of a task carried out for reasons of public interest.
+In order to exercise the right to object, the visitor may contact any employee of the Bonfire processor project. In addition, the visitor is free in the context of the use of information society services, and notwithstanding Directive 2002/58/EC, to use his or her right to object by automated means using technical specifications.
 
 #### h) Automated individual decision-making, including profiling
 Each visitor shall have the right granted by the European legislator not to be subject to a decision based solely on automated processing, including profiling, which produces legal effects concerning him or her, or similarly significantly affects him or her, as long as the decision (1) is not is necessary for entering into, or the performance of, a contract between the visitor and a data controller, or (2) is not authorised by Union or Member State law to which the controller is subject and which also lays down suitable measures to safeguard the visitor's rights and freedoms and legitimate interests, or (3) is not based on the visitor's explicit consent.
-If the decision (1) is necessary for entering into, or the performance of, a contract between the visitor and a data controller, or (2) it is based on the visitor's explicit consent, {{ site.title }} shall implement suitable measures to safeguard the visitor's rights and freedoms and legitimate interests, at least the right to obtain human intervention on the part of the controller, to express his or her point of view and contest the decision.
-If the visitor wishes to exercise the rights concerning automated individual decision-making, he or she may, at any time, contact any employee of {{ site.title }}.
+If the decision (1) is necessary for entering into, or the performance of, a contract between the visitor and a data controller, or (2) it is based on the visitor's explicit consent, the Bonfire processor project shall implement suitable measures to safeguard the visitor's rights and freedoms and legitimate interests, at least the right to obtain human intervention on the part of the controller, to express his or her point of view and contest the decision.
+If the visitor wishes to exercise the rights concerning automated individual decision-making, he or she may, at any time, contact any employee of the Bonfire processor project.
 
 #### i) Right to withdraw data protection consent
 Each visitor shall have the right granted by the European legislator to withdraw his or her consent to processing of his or her personal data at any time.
-If the visitor wishes to exercise the right to withdraw the consent, he or she may, at any time, contact any employee of {{ site.title }}.
+If the visitor wishes to exercise the right to withdraw the consent, he or she may, at any time, contact any employee of the Bonfire processor project.
 
+### 8. Data protection provisions about the application and use of Google Analytics (with anonymization function)
 
+On this website, the controller has integrated the component of Google Analytics (with the anonymizer function). Google Analytics is a web analytics service. Web analytics is the collection, gathering, and analysis of data about the behavior of visitors to websites. A web analysis service collects, inter alia, data about the website from which a person has come (the so-called referrer), which sub-pages were visited, or how often and for what duration a sub-page was viewed. Web analytics are mainly used for the optimization of a website and in order to carry out a cost-benefit analysis of Internet advertising.
 
-### 8. Data protection provisions about the application and use of YouTube
+The operator of the Google Analytics component is
+ Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, United States.
+For the web analytics through Google Analytics the controller uses the application "_gat. _anonymizeIp". By means of this application the IP address of the Internet connection of the visitor is abridged by Google and anonymised when accessing our websites from a Member State of the European Union or another Contracting State to the Agreement on the European Economic Area.
+
+The purpose of the Google Analytics component is to analyze the traffic on our website. Google uses the collected data and information, inter alia, to evaluate the use of our website and to provide online reports, which show the activities on our websites, and to provide other services concerning the use of our Internet site for us.
+
+Google Analytics places a cookie on the information technology system of the visitor. The definition of cookies is explained above. With the setting of the cookie, Google is enabled to analyze the use of our website. With each call-up to one of the individual pages of this Internet site, which is operated by the controller and into which a Google Analytics component was integrated, the Internet browser on the information technology system of the visitor will automatically submit data through the Google Analytics component for the purpose of online advertising and the settlement of commissions to Google. During the course of this technical procedure, the enterprise Google gains knowledge of personal information, such as the IP address of the visitor, which serves Google, inter alia, to understand the origin of visitors and clicks, and subsequently create commission settlements.
+
+The cookie is used to store personal information, such as the access time, the location from which the access was made, and the frequency of visits of our website by the visitor. With each visit to our Internet site, such personal data, including the IP address of the Internet access used by the visitor, will be transmitted to Google in the United States of America. These personal data are stored by Google in the United States of America. Google may pass these personal data collected through the technical procedure to third parties.
+The visitor may, as stated above, prevent the setting of cookies through our website at any time by means of a corresponding adjustment of the web browser used and thus permanently deny the setting of cookies. Such an adjustment to the Internet browser used would also prevent Google Analytics from setting a cookie on the information technology system of the visitor. In addition, cookies already in use by Google Analytics may be deleted at any time via a web browser or other software programs.
+
+In addition, the visitor has the possibility of objecting to a collection of data that are generated by Google Analytics, which is related to the use of this website, as well as the processing of this data by Google and the chance to preclude any such. For this purpose, the visitor must download a browser add-on under the link https://tools.google.com/dlpage/gaoptout and install it. This browser add-on tells Google Analytics through a JavaScript, that any data and information about the visits of Internet pages may not be transmitted to Google Analytics. The installation of the browser add-ons is considered an objection by Google. If the information technology system of the visitor is later deleted, formatted, or newly installed, then the visitor must reinstall the browser add-ons to disable Google Analytics. If the browser add-on was uninstalled by the visitor or any other person who is attributable to their sphere of competence, or is disabled, it is possible to execute the reinstallation or reactivation of the browser add-ons.
+
+Further information and the applicable data protection provisions of Google may be retrieved under https://www.google.com/intl/en/policies/privacy/ and under http://www.google.com/analytics/terms/us.html. Google Analytics is further explained under the following Link https://www.google.com/analytics/.
+
+### 9. Data protection provisions about the application and use of YouTube
 
 On this website, the controller has integrated components of YouTube. YouTube is an Internet video portal that enables video publishers to set video clips and other users free of charge, which also provides free viewing, review and commenting on them. YouTube allows you to publish all kinds of videos, so you can access both full movies and TV broadcasts, as well as music videos, trailers, and videos made by users via the Internet portal.
 
@@ -178,15 +195,11 @@ YouTube and Google will receive information through the YouTube component that t
 
 YouTube's data protection provisions, available at https://www.google.com/intl/en/policies/privacy/, provide information about the collection, processing and use of personal data by YouTube and Google.
 
-#### 9. Legal basis for the processing
+#### 10. Legal basis for the processing
 
 Art. 6(1) lit. a GDPR serves as the legal basis for processing operations for which we obtain consent for a specific processing purpose. If the processing of personal data is necessary for the performance of a contract to which the visitor is party, as is the case, for example, when processing operations are necessary for the supply of goods or to provide any other service, the processing is based on Article 6(1) lit. b GDPR.
 The same applies to such processing operations which are necessary for carrying out pre-contractual measures, for example in the case of inquiries concerning our products or services. Is our company subject to a legal obligation by which processing of personal data is required, such as for the fulfillment of tax obligations, the processing is based on Art. 6(1) lit. c GDPR. In rare cases, the processing of personal data may be necessary to protect the vital interests of the visitor or of another natural person. This would be the case, for example, if a visitor were injured in our company and his name, age, health insurance data or other vital information would have to be passed on to a doctor, hospital or other third party. Then the processing would be based on Art. 6(1) lit. d GDPR.
 Finally, processing operations could be based on Article 6(1) lit. f GDPR. This legal basis is used for processing operations which are not covered by any of the abovementioned legal grounds, if processing is necessary for the purposes of the legitimate interests pursued by our company or by a third party, except where such interests are overridden by the interests or fundamental rights and freedoms of the visitor which require protection of personal data. Such processing operations are particularly permissible because they have been specifically mentioned by the European legislator. He considered that a legitimate interest could be assumed if the visitor is a client of the controller (Recital 47 Sentence 2 GDPR).
-
-#### 10. The legitimate interests pursued by the controller or by a third party
-Where the processing of personal data is based on Article 6(1) lit. f GDPR our legitimate interest is to provide the services of this website
-
 
 #### 11. Existence of automated decision-making
 As a responsible company, we do not use automatic decision-making or profiling.
