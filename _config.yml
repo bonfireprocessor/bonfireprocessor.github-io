@@ -2,9 +2,16 @@ title: The Bonfire Processor
 description:
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-slate
+#theme: jekyll-theme-dinky
+remote_theme: mmistakes/jekyll-theme-basically-basic
 
 exclude: [ archive ]
 
-gems:
+lang: en-US
+
+github_username: bonfireprocessor
+email: info@bonfirecpu.eu
+
+plugins:
   - jekyll-mentions
+  - jekyll-remote-theme

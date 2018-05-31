@@ -1,5 +1,5 @@
 ---
-title: Bonfire Project Privacy Policy
+title: Privacy Policy
 ---
 
 
