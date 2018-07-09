@@ -2,7 +2,6 @@
 
 ---
 
-
 ## Welcome to the Bonfire Processor Project
 
 
@@ -58,6 +57,7 @@ An implementation of eLua makes the resulting systems easy to use and self-conta
 * 96Mhz Clock
 * Bonfire Extended Core
 * 8KB Instruction Cache
+* 8KB Data Cache
 * SDRAM Controller for 8MB SDRAM on the Papilio Pro
 * UART for console I/O
 * SPI Flash for Program store
@@ -75,9 +75,12 @@ An implementation of eLua makes the resulting systems easy to use and self-conta
   * 256MB RAM
 * UART for console I/O
 * SPI Flash for program store
-* 100/100MBit Ethernet Support (Xilinx© Ethernetlite Core)
+* 10/100MBit Ethernet Support (Xilinx© Ethernetlite Core)
 * SD Card Interface with optinal Digilent© PMod SD
+* GPIO 
 * 2nd UART on PMod for Debugging
+* Implemented as IP Integrator Block design - easy to reconfigure
+* Can easily leverage Xilinx IP Cores
 
 
 ## eLua
