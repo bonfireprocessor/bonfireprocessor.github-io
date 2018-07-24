@@ -1,5 +1,7 @@
 ---
+layout: page
 title: Features
+image: /assets/images/arty.png
 ---
 
 ## Core

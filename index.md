@@ -20,8 +20,8 @@ actions:
   - label : "Read More"
     url: /about.html
 
+  - label: "Download"
+    icon: download
+    url: https://github.com/bonfireprocessor/bonfire/releases    
+
 ---
-
-
-
-
