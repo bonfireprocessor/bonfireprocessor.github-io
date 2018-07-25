@@ -1,5 +1,5 @@
 ---
-title: Install
+title: Quick start
 image: /assets/images/arty.png
 actions:
 - label: "Download"

@@ -20,7 +20,7 @@ actions:
 
 ![Block Design](/assets/images/block_design.png)
 
-The Image as configured as follows
+The Image is configured as follows:
 
 ### Hardware
 
@@ -34,7 +34,7 @@ In the Arty Image it is configured as follows:
 * 32KB Data Cache
 
 #### Memory
-* 256MB of DDR3 Memory on the Arty Board mapped at Address `0x00000000-0x0ffffffff`
+* 256MB of DDR3 Memory on the Arty Board
 * 32KB of Block RAM for the Boot Monitor
 * SPI Interface to the On Board Flash Memory
 
