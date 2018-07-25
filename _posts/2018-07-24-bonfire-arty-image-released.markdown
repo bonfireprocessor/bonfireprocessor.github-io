@@ -12,6 +12,8 @@ actions:
 - label: "Download"
   icon: download
   url: https://github.com/bonfireprocessor/bonfire/releases
+- label: Instructions
+  url: /install.html  
 ---
 
 

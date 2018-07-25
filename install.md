@@ -1,5 +1,10 @@
 ---
 title: Install
+image: /assets/images/arty.png
+actions:
+- label: "Download"
+  icon: download
+  url: https://github.com/bonfireprocessor/bonfire/releases
 ---
 
 #### Prebuild Bitstream Quick start guide
@@ -11,10 +16,17 @@ If you own a Digilent [Arty A35 Board](https://store.digilentinc.com/arty-a7-art
 1. Connect you Arty Board to a USB connector (make sure that Vivado and the Xilinx cable drives are correctly installed)
 1. Start Vivado (or the Vivado Labtools)
 1. Open the Vivado Hardware Manager (it is available in the qick start pane)
+  ![install01](/assets/images/install01.png)
+
 1. Connect to the target board (the Arty, it is named xc7a35t_0 in the HW Manager screen)
+  ![install02](/assets/images/install02.png)
 1.  In the Hardware Manager window, under hardware right click your device and click Add Configuration Memory Devices
 1. A window will pop up. Search for “Micron” and select **mt25ql128-spi-x1_x2_x4**. Click OK on the next window asking if you want to program the configuration memory device.
-2. In the following dialog box select the unpzipped .mcs file from step 1 as "Confiugration file". Start programming
+  ![install03](/assets/images/install03.png)
+2. In the following dialog box select the unpzipped .mcs file from step 1 as "Confiugration file".
+  ![install04](/assets/images/install04.png)
+1. Start programming
+
 
 ##### Connect with a terminal program to the Board
 
