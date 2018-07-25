@@ -22,23 +22,31 @@ The Image as configured as follows
 
 ### Hardware
 
+#### [Bonfire AXI Core](https://github.com/bonfireprocessor/bonfire_axi)
+The Bonfire AXI Core contains the Bonfire Core together with Instruction and Data Cache. It is designed to be used with Xilinx IP Integrator and is "plug-in" compatible with the Microblaze Processor from Xilinx.
+
+In the Arty Image it is configured as follows:
+
 * Bonfire RISC-V CPU Version 1.20 implementing RV32IM
 * 32KB Instruction Cache
 * 32KB Data Cache
+
+#### Memory
 * 256MB of DDR3 Memory on the Arty Board mapped at Address `0x00000000-0x0ffffffff`
 * 32KB of Block RAM for the Boot Monitor
+* SPI Interface to the On Board Flash Memory
 
-* Arty Onboard Peripherals:
-  * USB-UART for Serial I/O
-  * Xilinx GPIO Core for Switches and LEDs of the ARTY Board
-  * Xilinx AXI Etherlite Core connected to the 10/100MB Ethernet PHY
+#### Arty Onboard Peripherals:
+* USB-UART for Serial I/O
+* Xilinx GPIO Core for Switches and LEDs of the ARTY Board
+* Xilinx AXI Etherlite Core connected to the 10/100MB Ethernet PHY
 
-* External Peripherals:
-  * UART on PMOD Port JD
-  * Xilinx AXI QSPI Core on PMOD JB, e.g. to use an SDCard PMod
+#### External Peripherals:
+* UART on PMOD Port JD
+* Xilinx AXI QSPI Core on PMOD JB, e.g. to use an SDCard PMod
 
-* GPIO
-  * [Bonfire-GPIO Peripheral](https://github.com/bonfireprocessor/bonfire-gpio) connected Arduino Digital I/O Headers
+#### GPIO
+* [Bonfire-GPIO Peripheral](https://github.com/bonfireprocessor/bonfire-gpio) connected Arduino Digital I/O Headers
 
 ### Software
   * Bonfire Boot Monitor
