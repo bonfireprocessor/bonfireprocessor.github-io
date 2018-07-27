@@ -12,6 +12,8 @@ lang: en-US
 github_username: bonfireprocessor
 email: info@bonfirecpu.eu
 
+name: The Bonfire Processor Project 
+
 plugins:
   - jekyll-mentions
   - jekyll-remote-theme
