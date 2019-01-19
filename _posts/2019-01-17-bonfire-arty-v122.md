@@ -52,6 +52,7 @@ The default image supports the following peripherals
 | GPIO1    | Arty Dip Switches and Buttons | 80020000 | AXI GPIO          |   |
 | GPIO2    | Arty Shield DP0-DP19          | 80050000 | bonfire_gpio_core |   |
 
+![IO Subsystem](/assets/images/io_subsystem.png)
 
 #### SD Card
 The SD Card can be accesed as device /mmc on the eLua console. It must be formated with FAT32 (exFAT support is disabled by default, but can be enabled when building a custom eLua version). 
