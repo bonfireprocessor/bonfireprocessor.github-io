@@ -45,8 +45,8 @@ The default image supports the following peripherals
 | Device   | Connection                    | Address  | IP Core           |   |
 |----------|-------------------------------|----------|-------------------|---|
 | UART 0   | Arty USB Port                 | 80020000 | zpuino_uart       |   |
-| UART 1   | [PMod UART on JD](https://store.digilentinc.com/pmod-sd-full-sized-sd-card-slot/)               | 80030000 | zpuino_uart       |   |
-| SD Card  | [Pmod SD on JB](https://store.digilentinc.com/pmod-usbuart-usb-to-uart-interface/)                 | 80040000 | AXI Quad SPI      |   |
+| UART 1   | [PMod UART on JD](https://store.digilentinc.com/pmod-usbuart-usb-to-uart-interface/)               | 80030000 | zpuino_uart       |   |
+| SD Card  | [Pmod SD on JB](https://store.digilentinc.com/pmod-sd-full-sized-sd-card-slot/)                 | 80040000 | AXI Quad SPI      |   |
 | Ethernet | Arty Ethernet Phy             | 80E00000 | AXI Ethernet Lite |   |
 | GPIO0    | Arty LEDs                     | 80010000 | AXI GPIO          |   |
 | GPIO1    | Arty Dip Switches and Buttons | 80020000 | AXI GPIO          |   |
