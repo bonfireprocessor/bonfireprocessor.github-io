@@ -86,6 +86,7 @@ Shell commands:
   ver    - show version information
   mkdir  - create directories
   exit   - exit the shell
+  edit   - edit a file
 For more information use 'help <command>'.
 eLua#
 ```
@@ -93,26 +94,17 @@ Enter
 `lua /rom/life.lua`
 
 to run the Game of Life demo programs
-```
----------O---------------O------
-----------O---------------------
------OO---------O-O-------------
-----OO---------OO-OO------------
----OO--O-OO-OOO---O-O----O------
---OO--OO-O---O------O---O-O-----
----O---OOO---O-----O----O-O-----
-----OOO------O-O---------O------
------OOO----OO-OO---------------
-------------O-O--------------OO-
--------OO-------------------O--O
----------OO------------------OO-
---------O--O--------------------
----------O-O-------------O------
-----------O-------------O-O-----
-------------------------O-O-----
-Life - generation 50, mem 22.8 kB
-Execution time 6.721 sec (6720.62) ms
-eLua#
+![Life screenshot](/assets/images/life_demo.png)
 
-```
+#### Integrated Text Editor
+
+````
+edit /rom/life_server.lua
+````
+![Editor screenshot](/assets/images/kilo.png)
+
+The editor supports syntax highlighting for Lua code, you need to enable ANSI colors in your terminal program to see it. For minicom use the option `` --color=on`` to enable it.
+
+Of course on the /rom filesystem saving the file is not possible. So the editor is more usefull if a Micro SD card is connected to the system. 
+
 For more information about eLua and the Lua Language go to the [eLua Project Page](http://www.eluaproject.net/) and to the [Lua Language Page](https://www.lua.org/)
