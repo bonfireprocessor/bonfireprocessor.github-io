@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Bonfire on FireAnt"
+title:  "RISC-V on FireAnt"
 #date: "2019-11-24 8:20:25 +0200"
 image: /assets/images/FireAnt.jpg
+
+introduction:
+  After my FireAnt board arrived I was curious to run my Bonfire RISC-V cpu core on it. This post is about my experience with the FireAnt and the Trion T8 FPGA on it I made during the implementation
 
 actions:
   - label: "View on GitHub"
@@ -25,7 +28,7 @@ The FireAnt Board contains the Trion T8 FPGA, 4LEDs, two user buttons (the thrid
 An unsual property of the FireAnt is, that the FPGA is not programmed over a JTAG interface like on most FPGA boards, it is done over SPI: The FTDI232H is used in SPI mode by the Trion Software and can either directly program the FPGA in a non-volatile way or program the NOR Flash chip. Because the FTDI232H is only single channel, there is no paralell UART connection as usual in other FPGA boards. I tried to use the FTDU232H in UART mode after programming the FPGA. Unfortunately the standard serial driver hold the DTR line low, which unfortunately is mapped to the CRESET pin of the FPGA. 
 
 #### The Trion T8 FPGA
-The T8 has a quite simple structure, the logic cells are just a 4 Input LUT and a D-Flip-Flop. The LUT can also be configured as a 1-Bit Adder with Carry-In/Out. Multi-Bit adders are constructed from LUTs in a row with a dedicated Carry Chain. The Dual-Port Block RAMs are 5Kbit in Size, they support several configurations from 256x20 to 4096x1. In contasz to other FPGAs they don't support byte write enables, this is a limitation I had to work-around when porting Bonfire. 
+The T8 has a quite simple structure, the logic cells are just a 4 Input LUT and a D-Flip-Flop. The LUT can also be configured as a 1-Bit Adder with Carry-In/Out. Multi-Bit adders are constructed from LUTs in a row with a dedicated Carry Chain. The Dual-Port Block RAMs are 5Kbit in Size, they support several configurations from 256x20 to 4096x1. In contast to other FPGAs they don't support byte write enables, this is a limitation I had to work-around when porting Bonfire. 
 
 I/O Cells are just basic (no DDR, SERDES, etc.) and there is one simple PLL.
 
